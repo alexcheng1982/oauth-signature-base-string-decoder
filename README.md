@@ -5,4 +5,10 @@ OAuth Signature Base String Decoder is a small application to decode OAuth signa
 
 ### To use
 
+#### Use online version
+
+[OAuth Signature Base String Decoder online version](http://midgetontoes.com/code/oauth-signature-base-string-decoder/index.html)
+
+#### Run locally
+
 Run `python -m SimpleHTTPServer 8000` and open the page `http://localhost:8000` in your browser.
